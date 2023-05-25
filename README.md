@@ -32,6 +32,7 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 
 Email: ramilvaleev1@gmail.com
 LinkedIn: https://www.linkedin.com/in/ramil-valeev-86862093/
+
 I'm open to discussions and excited to connect with fellow data enthusiasts and professionals.
 
 Thank you for visiting my Data Science Bootcamp repository. Happy exploring!
